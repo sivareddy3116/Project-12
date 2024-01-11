@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RainbowSchoolLibrary", "RainbowSchoolLibrary\RainbowSchoolLibrary.csproj", "{3E60DEA7-26FB-4993-9E41-96D0479CCD1F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RainbowSchoolTests", "RainbowSchoolTests\RainbowSchoolTests.csproj", "{A7DA31F3-CDCC-423D-9F35-413B4F15F302}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3E60DEA7-26FB-4993-9E41-96D0479CCD1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E60DEA7-26FB-4993-9E41-96D0479CCD1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E60DEA7-26FB-4993-9E41-96D0479CCD1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E60DEA7-26FB-4993-9E41-96D0479CCD1F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7DA31F3-CDCC-423D-9F35-413B4F15F302}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7DA31F3-CDCC-423D-9F35-413B4F15F302}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7DA31F3-CDCC-423D-9F35-413B4F15F302}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7DA31F3-CDCC-423D-9F35-413B4F15F302}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9E5F4D10-363A-41E4-8054-1C2744F4DBED}
+	EndGlobalSection
+EndGlobal

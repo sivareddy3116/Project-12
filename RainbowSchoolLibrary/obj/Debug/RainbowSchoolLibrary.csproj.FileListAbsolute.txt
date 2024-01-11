@@ -1,0 +1,6 @@
+E:\12 project\RainbowSchoolLibrary\RainbowSchoolLibrary\bin\Debug\RainbowSchoolLibrary.dll
+E:\12 project\RainbowSchoolLibrary\RainbowSchoolLibrary\bin\Debug\RainbowSchoolLibrary.pdb
+E:\12 project\RainbowSchoolLibrary\RainbowSchoolLibrary\obj\Debug\RainbowSchoolLibrary.csproj.AssemblyReference.cache
+E:\12 project\RainbowSchoolLibrary\RainbowSchoolLibrary\obj\Debug\RainbowSchoolLibrary.csproj.CoreCompileInputs.cache
+E:\12 project\RainbowSchoolLibrary\RainbowSchoolLibrary\obj\Debug\RainbowSchoolLibrary.dll
+E:\12 project\RainbowSchoolLibrary\RainbowSchoolLibrary\obj\Debug\RainbowSchoolLibrary.pdb
